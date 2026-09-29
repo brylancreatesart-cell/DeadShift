@@ -1,0 +1,13 @@
+00:02.172  blend            | Read blend: "C:\UnrealProjects\DeadShift\Art\Blender\Source\GolfCourseAssets\SM_Golf_Clubhouse_02.blend"
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+
+FBX export starting... 'C:\\UnrealProjects\\DeadShift\\Art\\Blender\\Exports\\GolfCourseAssets\\SM_Golf_Clubhouse_02.fbx'
+export finished in 0.0470 sec.
+{"fbx": "C:\\UnrealProjects\\DeadShift\\Art\\Blender\\Exports\\GolfCourseAssets\\SM_Golf_Clubhouse_02.fbx", "source_objects": 393, "dimensions_m": [16.84000015258789, 19.74062728881836, 4.5374298095703125], "collision_hulls": 26, "materials": [{"name": "Golf_Foundation", "color": [0.3799999952316284, 0.4000000059604645, 0.3499999940395355, 1.0]}, {"name": "Golf_CreamSiding", "color": [0.7400000095367432, 0.7200000286102295, 0.550000011920929, 1.0]}, {"name": "Golf_LightMetalRoof", "color": [0.8799999952316284, 0.8600000143051147, 0.7099999785423279, 1.0]}, {"name": "Golf_DarkGreenTrim", "color": [0.054999999701976776, 0.0949999988079071, 0.07500000298023224, 1.0]}, {"name": "Golf_Window", "color": [0.11999999731779099, 0.20000000298023224, 0.2199999988079071, 1.0]}, {"name": "Golf_SignInk", "color": [0.02500000037252903, 0.03999999910593033, 0.03500000014901161, 1.0]}, {"name": "Golf_SidingRibs", "color": [0.651199996471405, 0.6335999965667725, 0.48399999737739563, 1.0]}], "vertices": 16650, "polygons": 12322, "source_saved": false}
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

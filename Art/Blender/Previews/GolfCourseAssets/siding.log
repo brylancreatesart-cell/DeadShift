@@ -1,0 +1,13 @@
+00:09.671  blend            | Read blend: "C:\UnrealProjects\DeadShift\Art\Blender\Source\GolfCourseAssets\SM_Golf_Clubhouse_02.blend"
+01:02.593  render           | Saved: 'C:\UnrealProjects\DeadShift\Art\Blender\Previews\GolfCourseAssets\Clubhouse02_NE.png'
+01:03.562  render           | Saved: 'C:\UnrealProjects\DeadShift\Art\Blender\Previews\GolfCourseAssets\Clubhouse02_SW.png'
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+Info: Saved as "SM_Golf_Clubhouse_02.blend"
+{"siding_ribs": 275, "non_siding_objects_unchanged": 118, "saved": "C:\\UnrealProjects\\DeadShift\\Art\\Blender\\Source\\GolfCourseAssets\\SM_Golf_Clubhouse_02.blend"}
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

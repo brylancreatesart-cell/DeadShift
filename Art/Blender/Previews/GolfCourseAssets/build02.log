@@ -1,0 +1,17 @@
+00:05.781  blend            | Read blend: "C:\UnrealProjects\DeadShift\Art\Blender\Source\GC01_Buildings\SM_Golf_NorthFacility_01.blend"
+C:\UnrealProjects\DeadShift\Art\Blender\Scripts\build_clubhouse_style02.py:20: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new(name);m.diffuse_color=(*color,1);m.use_nodes=True
+C:\UnrealProjects\DeadShift\Art\Blender\Scripts\build_clubhouse_style02.py:120: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  s.world.use_nodes=True;s.world.node_tree.nodes.get('Background').inputs[0].default_value=(.5,.5,.5,1)
+00:11.672  render           | Saved: 'C:\UnrealProjects\DeadShift\Art\Blender\Previews\GolfCourseAssets\Clubhouse02_NE.png'
+00:12.359  render           | Saved: 'C:\UnrealProjects\DeadShift\Art\Blender\Previews\GolfCourseAssets\Clubhouse02_SW.png'
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+Info: Saved as "SM_Golf_Clubhouse_02.blend"
+{"blend": "C:\\UnrealProjects\\DeadShift\\Art\\Blender\\Source\\GolfCourseAssets\\SM_Golf_Clubhouse_02.blend", "editable_mesh_parts": 190, "original_preserved": true, "footprint_m": [16, 19.2], "south_window_y": -6, "west_window_x": -5, "south_rates_sign_y": -2.75, "prices": "TBD", "Unreal_integration": "Not exported or imported; modeling review only"}
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit
