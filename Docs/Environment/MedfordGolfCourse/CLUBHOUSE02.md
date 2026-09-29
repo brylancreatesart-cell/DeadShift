@@ -8,3 +8,5 @@ Photo-based low metal roof, covered east porch, cream siding and dark green trim
 Blender orientation: +X north, -Y east, +Z up. Foundation retains the prior provisional 16 x 19.2 m footprint. Dimensions, doorway and unseen details require review; this is an editable modeling study, not a surveyed reconstruction or finished production asset. Toon materials use Blender EEVEE and need Unreal equivalents. No Unreal map was modified or export performed.
 
 NE and SW previews were rendered and inspected. The original open Blender session was not overwritten. New working copy is opened separately for review.
+
+September 29 siding-only revision: photo-based vertical metal ribs added to exterior walls and porch panels, with clearances for windows, doorway and rates sign. Both previews inspected; all 118 non-siding objects retained their transforms and geometry counts. Run update_clubhouse02_siding.py after the initial builder to reproduce this revision.
