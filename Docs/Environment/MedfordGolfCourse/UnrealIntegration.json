@@ -1,0 +1,20 @@
+{
+  "map": "/Game/Development/GC01/DEV_GC01_Graybox",
+  "asset": "/Game/GolfCourseAssets/Clubhouse/SM_Golf_Clubhouse_02.SM_Golf_Clubhouse_02",
+  "old": [
+    {
+      "label": "GC01_NorthFacility",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002991D2852D0) {x: 80.000000, y: 0.000000, z: 225.000000}>",
+      "scale": "<Struct 'Vector' (0x000002991D2852D0) {x: 16.000000, y: 19.200000, z: 4.500000}>"
+    }
+  ],
+  "origin_cm": [
+    80.0,
+    0.0,
+    0.0
+  ],
+  "new_bounds": "(<Struct 'Vector' (0x000002991D285E60) {x: 80.000000, y: 4.031342, z: 226.871425}>, <Struct 'Vector' (0x000002991D285EB0) {x: 842.000122, y: 987.031403, z: 226.871495}>)",
+  "material_slots": 7,
+  "other_actors_preserved": 646
+}

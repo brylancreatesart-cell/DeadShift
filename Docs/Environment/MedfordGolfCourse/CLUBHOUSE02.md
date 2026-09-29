@@ -10,3 +10,5 @@ Blender orientation: +X north, -Y east, +Z up. Foundation retains the prior prov
 NE and SW previews were rendered and inspected. The original open Blender session was not overwritten. New working copy is opened separately for review.
 
 September 29 siding-only revision: photo-based vertical metal ribs added to exterior walls and porch panels, with clearances for windows, doorway and rates sign. Both previews inspected; all 118 non-siding objects retained their transforms and geometry counts. Run update_clubhouse02_siding.py after the initial builder to reproduce this revision.
+
+Unreal integration: clubhouse placed in existing DEV_GC01_Graybox at the original northern facility position. Legacy FBX import required actor scale correction; 26 convex collision hulls present. Original placeholder retained below the map with collision disabled. Materials assigned. Interactive player traversal and final visual/material review remain UNVERIFIED; automated validation did not complete. User requested no further retries.
